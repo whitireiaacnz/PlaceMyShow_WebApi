@@ -45,3 +45,5 @@ Tasks Delivered
                                                                           } 
    this Endpoint is only accessible with the autrhorized Admin which will return a bearer token while logging in. 
 
+Database has also been uploaded with MovieDB.rar file
+Initial Catalog=MovieDB;User ID=MovieApi;Password=admin@123;
